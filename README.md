@@ -18,10 +18,10 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
 ## Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open
-	i) virtuoso/command interpreter window
-        ii)”Whats New…”
-2.	Close the 2nd window
-3.	Use 1st window i.e virtuoso window (CIW) for further processing.
+i.      virtuoso/command interpreter window
+ii.    ”Whats New…”
+3.	Close the 2nd window
+4.	Use 1st window i.e virtuoso window (CIW) for further processing.
       i.	Create a New Library
      ii.	Create Schematic Cell view.
     iii.	Create the Symbol for schematic Cell view.

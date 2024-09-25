@@ -38,17 +38,17 @@ v.	Analog simulation by spectre
 •	Go to 1st window i.e virtuoso (CIW)
 •	File-New-Cell view
 •	Setup the new file form
-	Library: Select the one you created.
-	Cell: Give the experiment name Ex: Inverter ViewSchematic
-	Type: Schematic press OK
+•	Library: Select the one you created.
+•	Cell: Give the experiment name Ex: Inverter ViewSchematic
+•	Type: Schematic press OK
 •	Add the required components from the libraries and make the connections.
-	Go to instance fixed menu or use shortcut key “I” from keypad to go instances
-	Click on browse. This opens the library browser
-	Now select the appropriate library for components like 
-	Gpdk45 ------------------------nmos1v, pmos1v
-	Create Input and Output pins
-	Make the connections by using fixed narrow wire key
-	Click Check and Save button
+•	Go to instance fixed menu or use shortcut key “I” from keypad to go instances
+•	Click on browse. This opens the library browser
+•	Now select the appropriate library for components like 
+•	Gpdk45 ------------------------nmos1v, pmos1v
+•	Create Input and Output pins
+•	Make the connections by using fixed narrow wire key
+•	Click Check and Save button
 ![Screenshot (103)](https://github.com/user-attachments/assets/7871eb7f-1d81-4718-bafd-75245c9dd8ba)
 
 
@@ -57,9 +57,9 @@ v.	Analog simulation by spectre
 ## iii)	Creating the Symbol for schematic Cell view
 
 •	In the schematic window, execute 
-	Create – Cell view – From Cell view
-	The cell view from cell view window appears
-	Check Lib Name, Cell Name, From View name must be schematic Press ok
+•	Create – Cell view – From Cell view
+•	The cell view from cell view window appears
+•	Check Lib Name, Cell Name, From View name must be schematic Press ok
 •	Now Symbol generation form appears. Click Ok If No changes required
 •	A new window with with default symbol is created.
 •	Edit the symbol if you want to give actual symbol shape else continue.
@@ -75,11 +75,11 @@ v.	Analog simulation by spectre
 ## iv)	Creating the new test cell view
 
 •	Go to CIW window, Execute File-New-Cell view
-	Setup the new file form
-	Library: Select the one you created.
-	Cell: Cell name must be different from the name used in schematic cell view. Ex: Inverter_test
-	View: Schematic
-	Type: Schematic press OK
+•	Setup the new file form
+•	Library: Select the one you created.
+•	Cell: Cell name must be different from the name used in schematic cell view. Ex: Inverter_test
+•	View: Schematic
+•	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 ![Screenshot (105)](https://github.com/user-attachments/assets/4e59e5c8-6ddd-4ed0-b9f4-017d8661529c)
 
@@ -89,12 +89,12 @@ v.	Analog simulation by spectre
 ## Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
-	Execute Setup—Simulation/directory/Host A new window opens
-	Set the simulation window to spectre and click ok
-	Execute Analysis – Choose. A window opens.
-	Select the type and set the specifications and press OK
-	Execute Output s—to be plotted – Select on Schematic
-	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
+•	Execute Setup—Simulation/directory/Host A new window opens
+•	Set the simulation window to spectre and click ok
+•	Execute Analysis – Choose. A window opens.
+•	Select the type and set the specifications and press OK
+•	Execute Output s—to be plotted – Select on Schematic
+•	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 ![Screenshot (106)](https://github.com/user-attachments/assets/ebb8c230-54a5-4c31-a702-75ca2bf2d316)
 

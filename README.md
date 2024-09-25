@@ -50,6 +50,8 @@ v.	Analog simulation by spectre
 12.	Create Input and Output pins
 13.	Make the connections by using fixed narrow wire key
 14.	Click Check and Save button
+
+    
 ![Screenshot (103)](https://github.com/user-attachments/assets/7871eb7f-1d81-4718-bafd-75245c9dd8ba)
 
 
@@ -69,6 +71,7 @@ v.	Analog simulation by spectre
 10.	Check for the position of pin side.Prss OK
 11.	Edit for the shape by Create-Shape-Choose required options to edit.
 
+
 ![Screenshot (104)](https://github.com/user-attachments/assets/5a23df05-28e9-4112-80ff-78f269a44f5e)
 
 
@@ -82,6 +85,8 @@ v.	Analog simulation by spectre
 5.	View: Schematic
 6.	Type: Schematic press OK
 7.	Follow the step 3(ii) d to make the required connections
+
+   
 ![Screenshot (105)](https://github.com/user-attachments/assets/4e59e5c8-6ddd-4ed0-b9f4-017d8661529c)
 
 
@@ -97,6 +102,8 @@ v.	Analog simulation by spectre
 7.	Execute Output s—to be plotted – Select on Schematic
 8.	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 9.	Execute Simulation -- Net list and Run
+
+    
 ![Screenshot (106)](https://github.com/user-attachments/assets/ebb8c230-54a5-4c31-a702-75ca2bf2d316)
 
 
@@ -110,6 +117,8 @@ v.	Analog simulation by spectre
 
 
 ## For DC Analysis Settings and Output
+
+
 ![Screenshot (108)](https://github.com/user-attachments/assets/b3ae75ee-8359-4e94-8cfa-681da48be740)
 
 

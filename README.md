@@ -3,18 +3,19 @@
 ## Aim:
 To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse its electrical characteristics, and understand the fundamental principles of CMOS technology, including the design process, layout, and simulation techniques.
 
-Tools Required:
+## Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
-S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
+## S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
 •	csh
 •	source /cadence/install/cshrc
-•	virtuoso 
-Procedure for Schematic simulation using Cadence
+•	virtuoso
+
+## Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open i) virtuoso/command interpreter window ii)”Whats New…”
 2.	Close the 2nd window
@@ -26,12 +27,13 @@ iv.	Create the test Cell view.
 v.	Analog simulation by spectre
 
 
-i)	Procedure for Creating New Library.
+## i)	Procedure for Creating New Library.
 •	File –New – Library
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
 •	Attach the library to the technology library gpdk045.Click OK
-ii)	Create Schematic Cell view.
+
+## ii)	Create Schematic Cell view.
 •	Go to 1st window i.e virtuoso (CIW)
 •	File-New-Cell view
 •	Setup the new file form
@@ -51,7 +53,7 @@ ii)	Create Schematic Cell view.
 
 
  
-iii)	Creating the Symbol for schematic Cell view
+## iii)	Creating the Symbol for schematic Cell view
 
 •	In the schematic window, execute 
 	Create – Cell view – From Cell view
@@ -69,7 +71,7 @@ iii)	Creating the Symbol for schematic Cell view
 
 
 
-iv)	Creating the new test cell view
+## iv)	Creating the new test cell view
 
 •	Go to CIW window, Execute File-New-Cell view
 	Setup the new file form
@@ -83,7 +85,7 @@ iv)	Creating the new test cell view
 
 
  
-Analog simulation by SPECTRE.
+## Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
 	Execute Setup—Simulation/directory/Host A new window opens
@@ -96,7 +98,7 @@ Analog simulation by SPECTRE.
 ![Screenshot (106)](https://github.com/user-attachments/assets/ebb8c230-54a5-4c31-a702-75ca2bf2d316)
 
 
-For Transient Analysis Settings and Output
+## For Transient Analysis Settings and Output
  
  
  ![Screenshot (109)](https://github.com/user-attachments/assets/f7bb4ac3-193f-4cc8-b44c-e71caac7a98c)
@@ -105,7 +107,7 @@ For Transient Analysis Settings and Output
  ![Screenshot (98)](https://github.com/user-attachments/assets/a6a66a87-c4fb-4a87-82b9-774ebe7b18ab)
 
 
- For DC Analysis Settings and Output
+## For DC Analysis Settings and Output
 ![Screenshot (108)](https://github.com/user-attachments/assets/b3ae75ee-8359-4e94-8cfa-681da48be740)
 
 
